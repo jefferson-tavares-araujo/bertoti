@@ -1,2 +1,2 @@
 # bertoti
-Repositório para as Aulas de Padrões de Projeto e Metodologia
+Exercicios das Aulas de Padrões de Projeto e Metodologia do Profº Giuliano
