@@ -10,7 +10,7 @@ Estudante de Banco de Dados, analista de TI e estas são minhas experiências na
 Durante o 1º Semestre do curso, juntamente com meu time, trabalhei no projeto da API VANTEC com o Parceiro FATEC, como desenvolvedor.<br> A Vantec é uma ferramenta que tem o objetivo de facilitar a vida de motoristas e
 passageiros a gerenciar suas rotinas relacionadas ao transporte fretado, tanto no
 âmbito escolar, como no profissional.<br>
-[link para o GIT](https://gitlab.com/vanzeiros-do-vale/vantec)
+[https://gitlab.com/vanzeiros-do-vale/vantec]
 
 #### Tecnologias Utilizadas
  - Git
