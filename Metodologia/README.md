@@ -22,7 +22,7 @@ passageiros a gerenciar suas rotinas relacionadas ao transporte fretado, tanto n
 
 ## Contribuições Pessoais
 Na sprint 1 realizei o desenvolvimento de umas telas como protótipo no FIGMA, como possuo algum conhecimento em HTML não tive muitas dificuldades em realizar essa tarefa;<br>
-Na sprint 2 realizei o desenvolvimento das telas de cadastro no App Inventor, criação de alguns botões para o app;<br>
+Na sprint 2 realizei o desenvolvimento das telas de cadastro do motorista e aluno no App Inventor, criação de alguns botões para o app;<br>
 Na sprint 3 realizei os estudos no Firebase DB e no Tiny DB, devido não tinhamos conhecimento da ferramenta e no formato de banco NoSQL;<br>
 Na sprint 4 realizei testes no app como aluno e motorista para testes de execução no APP, para verificar se o mesmo está realizando o calculo das rotas.
 
