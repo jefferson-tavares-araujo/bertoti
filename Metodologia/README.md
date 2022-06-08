@@ -26,6 +26,10 @@ Na sprint 2 realizei o desenvolvimento das telas de cadastro do motorista e alun
 Na sprint 3 realizei os estudos no Firebase DB e no Tiny DB, devido não tinhamos conhecimento da ferramenta e no formato de banco NoSQL;<br>
 Na sprint 4 realizei testes no app como aluno e motorista para testes de execução no APP, para verificar se o mesmo está realizando o calculo das rotas.
 
+Segue imagens de desenvolvimento do projeto:
+
+<img src="/images/figma.jpg">
+
 #### Hard Skills Efetivamente Desenvolvidas
 App Inventor, Firebase DB, Tiny DB, pois como nunca vi essa ferramenta, tivemos de estudar fora do horário pois as tecnológias não faziam parte do ensinamento no curso
 
