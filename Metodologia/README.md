@@ -73,6 +73,10 @@ Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas t
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/backlog.jpg">
 
+ - Auxiliei na modelagem entidade relacionamento do banco de dados do sistema:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/mer.jpg">
+
  - Tela de diretório entrada/saída aparecerá a  pasta descompactada do estado e município que você escolheu para consultar com funções de busca personalizada e visualizações:
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/consultcar00.jpg">
