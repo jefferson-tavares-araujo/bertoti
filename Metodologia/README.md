@@ -1,6 +1,6 @@
 
 
-# Olá, sou Jefferson Tavares - RA:1460282023030 - Protótipo de API
+# Jefferson Tavares - RA:1460282023030 - Protótipo de API
 
 Estudante de Banco de Dados, analista de TI e estas são minhas experiências na Fatec SJC.
 
@@ -41,7 +41,7 @@ App Inventor, Firebase DB, Tiny DB, pois como nunca vi essa ferramenta, tivemos 
 
 
 #### Em 2021-1
-Durante o 2º Semestre do curso, juntamente com meu time, trabalhei no projeto da CONSULTCAR com o Parceiro VISIONA, como Scrum Master.<br> O ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural (SICAR)<br>
+Durante o 2º Semestre do curso, juntamente com meu time, trabalhei no projeto do sistema CONSULTCAR com o Parceiro VISIONA, como Scrum Master.<br> O ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural (SICAR)<br>
 [https://github.com/equipe-tetris/ConsultCAR]
 
 #### Tecnologias Utilizadas
@@ -59,6 +59,8 @@ sobre o andamento do projeto e mesmo tendo algum desentendimento, buscar alguma 
 de desenvolvimento e sua proxima tarefa do projeto, ao final de cada sprint, realizei a avaliação PACER, sendo dado notas de 0 a 3 a cada integrante do time incluindo o PO (Product Owner), também realizei a elaboração do gráfico de Burndown em cada<br>
 sprint sendo está é uma ferramenta de medição visual dessa metodologia ágil que apresenta o trabalho concluído por dia em relação à taxa de conclusão projetada para o projeto. Validei a criação das telas do front do sistema com o time DEV e validamos juntamente com o PO para validar com o cliente.
 
+Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema
+
  - Grafico Burndown de uma das sprints do projeto:
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/Burndown.jpg">
@@ -66,6 +68,18 @@ sprint sendo está é uma ferramenta de medição visual dessa metodologia ágil
  - Imagem de uma das avaliações PACER realizadas durante uma das sprints:
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/Pacer.jpg">
+
+ - Tela de diretório entrada/saída aparecerá a  pasta descompactada do estado e município que você escolheu para consultar com funções de busca personalizada e visualizações:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/consultcar00.jpg">
+
+ - Tela inicial para consulta do SICAR (Sistema Nacional de Cadastro Ambiental Rural) ,CONSULTCAR uma ferramenta que faz a importação de arquivos shapefile para armazenamento e visualização desses dados.
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/consultcar01.jpg">
+
+ - Tela de importação e descompactação do banco de dados do SICAR:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/consultcar02.jpg">
 
 #### Hard Skills Efetivamente Desenvolvidas
 Metodologia Scrum, pois como nunca atuei por exemplo como gerente de um projeto, tive que buscar informações sobre metodologia agil (Scrum e kambam) para poder contribuir na elaboração das tarefas e andamento do projeto.
