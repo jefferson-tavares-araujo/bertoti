@@ -79,7 +79,7 @@ Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas t
 
  - Tela de importação e descompactação do banco de dados do SICAR:
 
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/consultcar02.jpg">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/consultcar03.jpg">
 
 #### Hard Skills Efetivamente Desenvolvidas
 Metodologia Scrum, pois como nunca atuei por exemplo como gerente de um projeto, tive que buscar informações sobre metodologia agil (Scrum e kambam) para poder contribuir na elaboração das tarefas e andamento do projeto.
