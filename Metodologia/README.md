@@ -31,6 +31,9 @@ Segue imagens de desenvolvimento do projeto:
  - Desenvolvimento da tela de cadastro: aluno e motorista (frontend)
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/figma.jpg">
+
+- Desenvolvimento da tela de rota (frontend)
+
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/figma02.jpg">
 
 #### Hard Skills Efetivamente Desenvolvidas
@@ -55,6 +58,14 @@ Com a função de Scrum Master, durante as sprints, realizei o gerenciamento e d
 sobre o andamento do projeto e mesmo tendo algum desentendimento, buscar alguma solução juntamente com os SM dos outros times para o problema, realização das Daily Meeting com o time para saber as tarefas de cada um do time<br>
 de desenvolvimento e sua proxima tarefa do projeto, ao final de cada sprint, realizei a avaliação PACER, sendo dado notas de 0 a 3 a cada integrante do time incluindo o PO (Product Owner), também realizei a elaboração do gráfico de Burndown em cada<br>
 sprint sendo está é uma ferramenta de medição visual dessa metodologia ágil que apresenta o trabalho concluído por dia em relação à taxa de conclusão projetada para o projeto. Validei a criação das telas do front do sistema com o time DEV e validamos juntamente com o PO para validar com o cliente.
+
+ - Grafico Burndown de uma das sprints do projeto:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/Burndown.jpg">
+
+ - Imagem de uma das avaliações PACER realizadas durante uma das sprints:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/Pacer.jpg">
 
 #### Hard Skills Efetivamente Desenvolvidas
 Metodologia Scrum, pois como nunca atuei por exemplo como gerente de um projeto, tive que buscar informações sobre metodologia agil (Scrum e kambam) para poder contribuir na elaboração das tarefas e andamento do projeto.
