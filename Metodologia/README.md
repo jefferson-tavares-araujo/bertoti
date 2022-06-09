@@ -59,7 +59,7 @@ sobre o andamento do projeto e mesmo tendo algum desentendimento, buscar alguma 
 de desenvolvimento e sua proxima tarefa do projeto, ao final de cada sprint, realizei a avaliação PACER, sendo dado notas de 0 a 3 a cada integrante do time incluindo o PO (Product Owner), também realizei a elaboração do gráfico de Burndown em cada<br>
 sprint sendo está é uma ferramenta de medição visual dessa metodologia ágil que apresenta o trabalho concluído por dia em relação à taxa de conclusão projetada para o projeto. Validei a criação das telas do front do sistema com o time DEV e validamos juntamente com o PO para validar com o cliente.
 
-Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema
+Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema e nosso product baklog:
 
  - Grafico Burndown de uma das sprints do projeto:
 
@@ -68,6 +68,10 @@ Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas t
  - Imagem de uma das avaliações PACER realizadas durante uma das sprints:
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/Pacer.jpg">
+
+ - Elaborei juntamente com o time o nosso product backlog:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/backlog.jpg">
 
  - Tela de diretório entrada/saída aparecerá a  pasta descompactada do estado e município que você escolheu para consultar com funções de busca personalizada e visualizações:
 
