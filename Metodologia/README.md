@@ -28,7 +28,7 @@ Na sprint 4 realizei testes no app como aluno e motorista para testes de execuç
 
 Segue imagens de desenvolvimento do projeto:
 
-<img src="/images/figma.jpg">
+<img src="Metodologia/images/figma.jpg">
 
 #### Hard Skills Efetivamente Desenvolvidas
 App Inventor, Firebase DB, Tiny DB, pois como nunca vi essa ferramenta, tivemos de estudar fora do horário pois as tecnológias não faziam parte do ensinamento no curso
