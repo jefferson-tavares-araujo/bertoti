@@ -28,7 +28,10 @@ Na sprint 4 realizei testes no app como aluno e motorista para testes de execuç
 
 Segue imagens de desenvolvimento do projeto:
 
+ - Desenvolvimento da tela de cadastro: aluno e motorista (frontend)
+
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/figma.jpg">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/figma01.jpg">
 
 #### Hard Skills Efetivamente Desenvolvidas
 App Inventor, Firebase DB, Tiny DB, pois como nunca vi essa ferramenta, tivemos de estudar fora do horário pois as tecnológias não faziam parte do ensinamento no curso
