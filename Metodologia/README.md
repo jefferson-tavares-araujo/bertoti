@@ -91,3 +91,70 @@ Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas t
 
 #### Hard Skills Efetivamente Desenvolvidas
 Metodologia Scrum, pois como nunca atuei por exemplo como gerente de um projeto, tive que buscar informações sobre metodologia agil (Scrum e kambam) para poder contribuir na elaboração das tarefas e andamento do projeto.
+
+
+
+#### Em 2021-2
+Durante o 3º Semestre do curso, juntamente com meu time, trabalhei no projeto do sistema SCRUMCLOUD com o Parceiro IACIT, como desenvolvedor.<br> O SCRUMCLOUD é uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
+
+Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.<br>
+
+<br>
+[https://github.com/equipe-tetris/scrum-cloud-backend]
+[https://github.com/equipe-tetris/scrum-cloud-frontend]
+
+#### Tecnologias Utilizadas
+ - Git
+ - GitHub
+ - IDE Intellij || Backend
+ - Linguagem de Programação: Java
+ - IDE Vs Code || Frontend
+
+#### Linguagens:
+ - Marcação: HTML5
+ - Estilização: CSS3
+ - Programação: Javascript
+ - BootStrap
+ - ReactJS
+ - Hibernate
+ - Spring Framework
+ - Banco de Dados: MySQL
+
+## Contribuições Pessoais
+Com a função de Scrum Master, durante as sprints, realizei o gerenciamento e divisão das tarefas de acordo com as informações obtidas com o Product Owner do time, realizei reuniões com o M2 para passar informações<br>
+sobre o andamento do projeto e mesmo tendo algum desentendimento, buscar alguma solução juntamente com os SM dos outros times para o problema, realização das Daily Meeting com o time para saber as tarefas de cada um do time<br>
+de desenvolvimento e sua proxima tarefa do projeto, ao final de cada sprint, realizei a avaliação PACER, sendo dado notas de 0 a 3 a cada integrante do time incluindo o PO (Product Owner), também realizei a elaboração do gráfico de Burndown em cada<br>
+sprint sendo está é uma ferramenta de medição visual dessa metodologia ágil que apresenta o trabalho concluído por dia em relação à taxa de conclusão projetada para o projeto. Validei a criação das telas do front do sistema com o time DEV e validamos juntamente com o PO para validar com o cliente.
+
+Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema e nosso product baklog:
+
+ - Grafico Burndown de uma das sprints do projeto:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/Burndown.jpg">
+
+ - Imagem de uma das avaliações PACER realizadas durante uma das sprints:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/Pacer.jpg">
+
+ - Elaborei juntamente com o time o nosso product backlog:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/backlog.jpg">
+
+ - Auxiliei na modelagem entidade relacionamento do banco de dados do sistema:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/mer.jpg">
+
+ - Tela de diretório entrada/saída aparecerá a  pasta descompactada do estado e município que você escolheu para consultar com funções de busca personalizada e visualizações:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/consultcar00.jpg">
+
+ - Tela inicial para consulta do SICAR (Sistema Nacional de Cadastro Ambiental Rural) ,CONSULTCAR uma ferramenta que faz a importação de arquivos shapefile para armazenamento e visualização desses dados.
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/consultcar01.jpg">
+
+ - Tela de importação e descompactação do banco de dados do SICAR:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/consultcar03.jpg">
+
+#### Hard Skills Efetivamente Desenvolvidas
+Metodologia Scrum, pois como nunca atuei por exemplo como gerente de um projeto, tive que buscar informações sobre metodologia agil (Scrum e kambam) para poder contribuir na elaboração das tarefas e andamento do projeto.
