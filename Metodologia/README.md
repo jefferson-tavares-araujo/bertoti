@@ -100,7 +100,7 @@ Durante o 3º Semestre do curso, juntamente com meu time, trabalhei no projeto d
 Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.<br>
 
 <br>
-[https://github.com/equipe-tetris/scrum-cloud-backend]
+[https://github.com/equipe-tetris/scrum-cloud-backend]<br>
 [https://github.com/equipe-tetris/scrum-cloud-frontend]
 
 #### Tecnologias Utilizadas
