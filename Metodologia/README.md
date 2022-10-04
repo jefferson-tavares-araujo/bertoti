@@ -121,16 +121,16 @@ Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e rea
  - Banco de Dados: MySQL
 
 ## Contribuições Pessoais
-Com a função de Scrum Master, durante as sprints, realizei o gerenciamento e divisão das tarefas de acordo com as informações obtidas com o Product Owner do time, realizei reuniões com o M2 para passar informações<br>
-sobre o andamento do projeto e mesmo tendo algum desentendimento, buscar alguma solução juntamente com os SM dos outros times para o problema, realização das Daily Meeting com o time para saber as tarefas de cada um do time<br>
-de desenvolvimento e sua proxima tarefa do projeto, ao final de cada sprint, realizei a avaliação PACER, sendo dado notas de 0 a 3 a cada integrante do time incluindo o PO (Product Owner), também realizei a elaboração do gráfico de Burndown em cada<br>
-sprint sendo está é uma ferramenta de medição visual dessa metodologia ágil que apresenta o trabalho concluído por dia em relação à taxa de conclusão projetada para o projeto. Validei a criação das telas do front do sistema com o time DEV e validamos juntamente com o PO para validar com o cliente.
+
+Neste projeto, auxiliei na elaboração do bando de dados, auxiliei o Scrum Master a elaborar as documentações de Backlog, User Stories, a fazer o burndown e realizar
+as avaliações PACER durante as sprints, já que o Scrum Master deste projeto não tinha experiência na função. Em seguida juntamente com um do time DEV auxilei na criação do FrontEnd.
 
 Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema e nosso product baklog:
 
- - Grafico Burndown de uma das sprints do projeto:
+ - Product Backlog do projeto:
 
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/Burndown.jpg">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBackLog_parte_I.png">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBackLog_parte_II.png">
 
  - Imagem de uma das avaliações PACER realizadas durante uma das sprints:
 
