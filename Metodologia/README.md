@@ -130,7 +130,7 @@ Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas t
  - Product Backlog do projeto:
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/tela-cadstro-dev.jpeg">
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/tela cadastro-sm_II.jpeg">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/tela cadastro-sm.jpeg">
 
  - Elaboração das telas:
 
