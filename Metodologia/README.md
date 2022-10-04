@@ -129,10 +129,10 @@ Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas t
 
  - Product Backlog do projeto:
 
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBackLog_parte_I.png">
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBackLog_parte_II.png">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/tela-cadstro-dev.jpeg">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/tela cadastro-sm_II.jpeg">
 
- - Imagem de uma das avaliações PACER realizadas durante uma das sprints:
+ - Elaboração das telas:
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/Pacer.jpg">
 
