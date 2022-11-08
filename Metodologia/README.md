@@ -130,7 +130,7 @@ Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas t
  - Telas de cadastro do time DEV e Scrum Master:
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/tela-cadastro-dev.jpeg">
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/tela cadastro-sm.jpeg">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/tela-cadastro-sm.jpeg">
 
  - Elaboração das telas:
 
