@@ -125,7 +125,7 @@ Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e rea
 Neste projeto, auxiliei na elaboração do bando de dados, auxiliei o Scrum Master a elaborar as documentações de Backlog, User Stories, a fazer o burndown e realizar
 as avaliações PACER durante as sprints, já que o Scrum Master deste projeto não tinha experiência na função. Em seguida juntamente com um do time DEV auxilei na criação do FrontEnd.
 
-Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema e nosso product backlog:
+Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema, tela do user stories e nosso product backlog:
 
  - Telas de cadastro do time DEV e Scrum Master, cadastro do time:
 
