@@ -140,6 +140,6 @@ Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas t
 
  - Elaboração do Backlog do projeto:
 
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBacklog_parte_I.png">
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBacklog_parte_II.png">
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBacklog_parte_III.png">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBackLog_parte_I.png">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBackLog_parte_II.png">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBackLog_parte_III.png">
