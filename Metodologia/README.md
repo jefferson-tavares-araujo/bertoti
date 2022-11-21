@@ -181,3 +181,8 @@ Neste projeto, trabalhei como SCRUM MASTER, elaborando as tarefas do time, parti
  - Tela do User Stories:
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/userstories.jpg">
+
+ - Tela Product Backlog:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/backlog01.jpg">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/backlog02.jpg">
