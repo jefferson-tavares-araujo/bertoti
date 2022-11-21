@@ -150,12 +150,34 @@ Neste projeto tive revendo meus conhecimentos em HTML para auxiliar na elaboraç
 
 
 #### Em 2022-1
-Durante o 4º Semestre do curso, juntamente com meu time, trabalhei no projeto do sistema LEFOOT com o Parceiro ORACLE, como SCRUM MASTER.<br> O SCRUMCLOUD é uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
+Durante o 4º Semestre do curso, juntamente com meu time, trabalhei no projeto do sistema LEFOOT com o Parceiro ORACLE, como SCRUM MASTER.<br> O LEFOOT é uma aplicação web que permitem aos Diretores e Gerentes de lojas que pretendem abrir franquias da loja e estudarem os perfis de seus clientes para com isso enviar campanhas de marketing para os mesmos.<br>
 
-Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.<br>
-
+O objetivo do sistema é segmentar para descobrir novas demandas de produtos por regioes, melhorando a visibilidade da base de clientes a partir da leitura de arquivos *.CSV. A aplicação poderá auxiliar na tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos.
 <br>
 [https://gitlab.com/vueforce1/lefoot]<br>
 
+#### Tecnologias Utilizadas
+ - Git
+ - Gitlab
+ - IDE Intellij || Backend
+ - Linguagem de Programação: Java
+ - IDE Vs Code || Frontend
 
+#### Linguagens Frontend:
+ - Marcação: HTML5
+ - Estilização: CSS3
+ - Programação: Javascript
+ - Vue Js
+ - Node
+ - Springboot
+ - Banco de Dados: ORACLE
+ - Programação PLSQL
+ - ORACLE CLOUD
 
+## Contribuições Pessoais
+
+Neste projeto, trabalhei como SCRUM MASTER, elaborando as tarefas do time, participando das reuniões com o Product Owner e o M2, elaborei a criação do Product Backlog, User Stories e algumas telas do front;<br>
+
+ - Tela do User Stories:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/userstories.jpeg">
