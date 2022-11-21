@@ -134,29 +134,6 @@ Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas t
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/tela-cadastro-equipes.jpeg">
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/tela-config-sala-planning.png">
 
- - Elaboração das telas:
+ - Também auxiliei na criação do MER (Modelo entidade relacionamento do Banco de Dados):
 
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/Pacer.jpg">
-
- - Elaborei juntamente com o time o nosso product backlog:
-
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/backlog.jpg">
-
- - Auxiliei na modelagem entidade relacionamento do banco de dados do sistema:
-
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/mer.jpg">
-
- - Tela de diretório entrada/saída aparecerá a  pasta descompactada do estado e município que você escolheu para consultar com funções de busca personalizada e visualizações:
-
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/consultcar00.jpg">
-
- - Tela inicial para consulta do SICAR (Sistema Nacional de Cadastro Ambiental Rural) ,CONSULTCAR uma ferramenta que faz a importação de arquivos shapefile para armazenamento e visualização desses dados.
-
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/consultcar01.jpg">
-
- - Tela de importação e descompactação do banco de dados do SICAR:
-
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/consultcar03.jpg">
-
-#### Hard Skills Efetivamente Desenvolvidas
-Metodologia Scrum, pois como nunca atuei por exemplo como gerente de um projeto, tive que buscar informações sobre metodologia agil (Scrum e kambam) para poder contribuir na elaboração das tarefas e andamento do projeto.
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/MER_ATUAL.jpeg">
