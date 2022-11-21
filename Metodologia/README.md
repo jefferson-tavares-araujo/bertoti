@@ -143,3 +143,19 @@ Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas t
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBackLog_parte_I.png">
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBackLog_parte_II.png">
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBackLog_parte_III.png">
+
+#### Hard Skills Efetivamente Desenvolvidas
+Neste projeto tive revendo meus conhecimentos em HTML para auxiliar na elaboração do frontend do projeto, pois não tenho experiência para o backend, e auxiliei com meu conhecimento sobre metodologia SCRUM.
+
+
+
+#### Em 2022-1
+Durante o 4º Semestre do curso, juntamente com meu time, trabalhei no projeto do sistema LEFOOT com o Parceiro ORACLE, como SCRUM MASTER.<br> O SCRUMCLOUD é uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
+
+Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.<br>
+
+<br>
+[https://gitlab.com/vueforce1/lefoot]<br>
+
+
+
