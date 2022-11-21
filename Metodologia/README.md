@@ -137,3 +137,9 @@ Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas t
  - Também auxiliei na criação do MER (Modelo entidade relacionamento do Banco de Dados):
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/MER_ATUAL.jpeg">
+
+ - Backlog do projeto:
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBacklog_parte_I.png">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBacklog_parte_II.png">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBacklog_parte_III.png">
