@@ -180,4 +180,4 @@ Neste projeto, trabalhei como SCRUM MASTER, elaborando as tarefas do time, parti
 
  - Tela do User Stories:
 
-<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/userstories.jpeg">
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/userstories.jpg">
