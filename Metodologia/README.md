@@ -14,11 +14,11 @@ passageiros a gerenciar suas rotinas relacionadas ao transporte fretado, tanto n
 
 <details open>
 <summary>#### Tecnologias Utilizadas</summary>
- - Git
- - Gitlab
- - FIGMA
- - App Inventor
- - Firebase DB
+ - Git <br>
+ - Gitlab <br>
+ - FIGMA <br>
+ - App Inventor <br>
+ - Firebase DB <br>
  - Tiny DB
 </details>
 
