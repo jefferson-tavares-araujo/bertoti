@@ -22,11 +22,13 @@ passageiros a gerenciar suas rotinas relacionadas ao transporte fretado, tanto n
  - Tiny DB
 </details>
 
-## Contribuições Pessoais
+<details open>
+<summary>#### Contribuições Pessoais</summary>
 Na sprint 1 realizei o desenvolvimento de umas telas como protótipo no FIGMA, como possuo algum conhecimento em HTML não tive muitas dificuldades em realizar essa tarefa;<br>
 Na sprint 2 realizei o desenvolvimento das telas de cadastro do motorista e aluno no App Inventor, criação de alguns botões para o app;<br>
 Na sprint 3 realizei os estudos no Firebase DB e no Tiny DB, devido não tinhamos conhecimento da ferramenta e no formato de banco NoSQL;<br>
 Na sprint 4 realizei testes no app como aluno e motorista para testes de execução no APP, para verificar se o mesmo está realizando o calculo das rotas.
+</details>
 
 Segue imagens de desenvolvimento do projeto:
 
@@ -46,14 +48,16 @@ App Inventor, Firebase DB, Tiny DB, pois como nunca vi essa ferramenta, tivemos 
 Durante o 2º Semestre do curso, juntamente com meu time, trabalhei no projeto do sistema CONSULTCAR com o Parceiro VISIONA, como Scrum Master.<br> O ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural (SICAR)<br>
 [https://github.com/equipe-tetris/ConsultCAR]
 
-#### Tecnologias Utilizadas
-  - Git
-  - GitHub
-  - Apache Maven
-  - IDE Eclipse || JAVA
-  - Biblioteca GeoTools
-  - Banco de Dados: PostgreSQL || pgAdmin4 ou DBeaver
-  - Extensão espacial para o banco de dados: PostGIS
+<details open>
+<summary>#### Tecnologias Utilizadas</summary>
+  - Git <br>
+  - GitHub <br>
+  - Apache Maven <br>
+  - IDE Eclipse || JAVA <br>
+  - Biblioteca GeoTools <br>
+  - Banco de Dados: PostgreSQL || pgAdmin4 ou DBeaver <br>
+  - Extensão espacial para o banco de dados: PostGIS <br>
+</details>
 
 ## Contribuições Pessoais
 Com a função de Scrum Master, durante as sprints, realizei o gerenciamento e divisão das tarefas de acordo com as informações obtidas com o Product Owner do time, realizei reuniões com o M2 para passar informações<br>
