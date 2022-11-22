@@ -200,6 +200,6 @@ Neste projeto, trabalhei como SCRUM MASTER, elaborando as tarefas do time, parti
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/lefoot_filtro.jpg">
 
 
-Hard Skills Efetivamente Desenvolvidas
+#### Hard Skills Efetivamente Desenvolvidas
 Neste projeto em particular tivemos que criar um arquivo *.CSV do zero com dados de clientes ficticios, já que o cliente solicitante do projeto não possuia o mesmo, então o time teve um pouco de dificuldade de criação do mesmo, mas na medida<br>
 que fomos criando e o cliente validando, o projeto foi caminhando, também tivemos a oportunidade de trabalhar com o ORACLE CLOUD, com isso nosso banco de dados e aplicação ficou disponibilizado na nuvem.
