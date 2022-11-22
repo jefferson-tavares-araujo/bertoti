@@ -113,21 +113,21 @@ Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e rea
 
 <details open>
 <summary>#### Tecnologias Utilizadas</summary>
- - Git
- - GitHub
- - IDE Intellij || Backend
- - Linguagem de Programação: Java
- - IDE Vs Code || Frontend
+ - Git <br>
+ - GitHub <br>
+ - IDE Intellij || Backend <br>
+ - Linguagem de Programação: Java <br>
+ - IDE Vs Code || Frontend <br>
 
-<summary>#### Linguagens:</summary>
- - Marcação: HTML5
- - Estilização: CSS3
- - Programação: Javascript
- - BootStrap
- - ReactJS
- - Hibernate
- - Spring Framework
- - Banco de Dados: MySQL
+#### Linguagens:
+ - Marcação: HTML5 <br>
+ - Estilização: CSS3 <br>
+ - Programação: Javascript <br>
+ - BootStrap <br>
+ - ReactJS <br>
+ - Hibernate <br>
+ - Spring Framework <br>
+ - Banco de Dados: MySQL <br>
 </details>
 
 ## Contribuições Pessoais
