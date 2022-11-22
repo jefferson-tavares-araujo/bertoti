@@ -169,27 +169,31 @@ O objetivo do sistema é segmentar para descobrir novas demandas de produtos por
 <br>
 [https://gitlab.com/vueforce1/lefoot]<br>
 
-#### Tecnologias Utilizadas
- - Git
- - Gitlab
- - IDE Intellij || Backend
- - Linguagem de Programação: Java
+<details open>
+<summary>#### Tecnologias Utilizadas</summary>
+ - Git <br>
+ - Gitlab <br>
+ - IDE Intellij || Backend <br>
+ - Linguagem de Programação: Java <br>
  - IDE Vs Code || Frontend
 
 #### Linguagens Frontend:
- - Marcação: HTML5
- - Estilização: CSS3
- - Programação: Javascript
- - Vue Js
- - Node
- - Springboot
- - Banco de Dados: ORACLE
- - Programação PLSQL
- - ORACLE CLOUD
+ - Marcação: HTML5 <br>
+ - Estilização: CSS3 <br>
+ - Programação: Javascript <br>
+ - Vue Js <br>
+ - Node <br>
+ - Springboot <br>
+ - Banco de Dados: ORACLE <br>
+ - Programação PLSQL <br>
+ - ORACLE CLOUD <br>
+</details>
 
-## Contribuições Pessoais
+<details open>
+<summary>## Contribuições Pessoais</summary>
 
 Neste projeto, trabalhei como SCRUM MASTER, elaborando as tarefas do time, participando das reuniões com o Product Owner e o M2, elaborei a criação do Product Backlog, User Stories e algumas telas do front;<br>
+</details>
 
  - Tela do User Stories:
 
