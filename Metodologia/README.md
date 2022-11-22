@@ -59,11 +59,13 @@ Durante o 2º Semestre do curso, juntamente com meu time, trabalhei no projeto d
   - Extensão espacial para o banco de dados: PostGIS <br>
 </details>
 
-## Contribuições Pessoais
+<details open>
+<summary>## Contribuições Pessoais</summary>
 Com a função de Scrum Master, durante as sprints, realizei o gerenciamento e divisão das tarefas de acordo com as informações obtidas com o Product Owner do time, realizei reuniões com o M2 para passar informações<br>
 sobre o andamento do projeto e mesmo tendo algum desentendimento, buscar alguma solução juntamente com os SM dos outros times para o problema, realização das Daily Meeting com o time para saber as tarefas de cada um do time<br>
 de desenvolvimento e sua proxima tarefa do projeto, ao final de cada sprint, realizei a avaliação PACER, sendo dado notas de 0 a 3 a cada integrante do time incluindo o PO (Product Owner), também realizei a elaboração do gráfico de Burndown em cada<br>
 sprint sendo está é uma ferramenta de medição visual dessa metodologia ágil que apresenta o trabalho concluído por dia em relação à taxa de conclusão projetada para o projeto. Validei a criação das telas do front do sistema com o time DEV e validamos juntamente com o PO para validar com o cliente.
+</details>
 
 Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema e nosso product baklog:
 
