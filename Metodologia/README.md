@@ -12,13 +12,15 @@ passageiros a gerenciar suas rotinas relacionadas ao transporte fretado, tanto n
 âmbito escolar, como no profissional.<br>
 [https://gitlab.com/vanzeiros-do-vale/vantec]
 
-#### Tecnologias Utilizadas
+<details open>
+<summary>#### Tecnologias Utilizadas</summary>
  - Git
  - Gitlab
  - FIGMA
  - App Inventor
  - Firebase DB
  - Tiny DB
+</details>
 
 ## Contribuições Pessoais
 Na sprint 1 realizei o desenvolvimento de umas telas como protótipo no FIGMA, como possuo algum conhecimento em HTML não tive muitas dificuldades em realizar essa tarefa;<br>
