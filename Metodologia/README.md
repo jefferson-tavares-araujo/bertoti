@@ -194,3 +194,7 @@ Neste projeto, trabalhei como SCRUM MASTER, elaborando as tarefas do time, parti
  - Frontend da tela de login:
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/lefoot_login.jpg">
+
+ - Frontend tela de filtragem de cliente (Uso para filtrar os clientes para envio de nova campanha):
+
+<img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/lefoot_filtro.jpg">
