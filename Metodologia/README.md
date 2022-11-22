@@ -111,14 +111,15 @@ Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e rea
 [https://github.com/equipe-tetris/scrum-cloud-backend]<br>
 [https://github.com/equipe-tetris/scrum-cloud-frontend]
 
-#### Tecnologias Utilizadas
+<details open>
+<summary>#### Tecnologias Utilizadas</summary>
  - Git
  - GitHub
  - IDE Intellij || Backend
  - Linguagem de Programação: Java
  - IDE Vs Code || Frontend
 
-#### Linguagens:
+<summary>#### Linguagens:</summary>
  - Marcação: HTML5
  - Estilização: CSS3
  - Programação: Javascript
@@ -127,6 +128,7 @@ Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e rea
  - Hibernate
  - Spring Framework
  - Banco de Dados: MySQL
+</details>
 
 ## Contribuições Pessoais
 
