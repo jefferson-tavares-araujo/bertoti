@@ -112,8 +112,8 @@ Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e rea
 [https://github.com/equipe-tetris/scrum-cloud-backend]<br>
 [https://github.com/equipe-tetris/scrum-cloud-frontend]
 
-<details open>
-<summary>#### Tecnologias Utilizadas</summary>
+
+#### Tecnologias Utilizadas
  - Git <br>
  - GitHub <br>
  - IDE Intellij || Backend <br>
@@ -129,17 +129,17 @@ Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e rea
  - Hibernate <br>
  - Spring Framework <br>
  - Banco de Dados: MySQL <br>
-</details>
 
-<details open>
-<summary>## Contribuições Pessoais</summary>
+
+
+#### Contribuições Pessoais
 
 Neste projeto, auxiliei na elaboração do bando de dados, auxiliei o Scrum Master a elaborar as documentações de Backlog, User Stories, a fazer o burndown e realizar
 as avaliações PACER durante as sprints, já que o Scrum Master deste projeto não tinha experiência na função. Em seguida juntamente com um do time DEV auxilei na criação do FrontEnd e na elaboração do MER.
-</details>
 
 
-Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema, tela do user stories e nosso product backlog:
+<details open>
+<summary>Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema, tela do user stories e nosso product backlog:</summary>
 
  - Telas de cadastro do time DEV e Scrum Master, cadastro do time:
 
@@ -157,6 +157,7 @@ Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas t
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBackLog_parte_I.png">
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBackLog_parte_II.png">
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/ProductBackLog_parte_III.png">
+</details>
 
 #### Hard Skills Efetivamente Desenvolvidas
 Neste projeto tive revendo meus conhecimentos em HTML para auxiliar na elaboração do frontend do projeto, pois não tenho experiência para o backend, e auxiliei com meu conhecimento sobre metodologia SCRUM.
@@ -170,8 +171,8 @@ O objetivo do sistema é segmentar para descobrir novas demandas de produtos por
 <br>
 [https://gitlab.com/vueforce1/lefoot]<br>
 
-<details open>
-<summary>#### Tecnologias Utilizadas</summary>
+
+#### Tecnologias Utilizadas
  - Git <br>
  - Gitlab <br>
  - IDE Intellij || Backend <br>
@@ -188,13 +189,15 @@ O objetivo do sistema é segmentar para descobrir novas demandas de produtos por
  - Banco de Dados: ORACLE <br>
  - Programação PLSQL <br>
  - ORACLE CLOUD <br>
-</details>
 
-<details open>
-<summary>## Contribuições Pessoais</summary>
+
+
+#### Contribuições Pessoais
 
 Neste projeto, trabalhei como SCRUM MASTER, elaborando as tarefas do time, participando das reuniões com o Product Owner e o M2, elaborei a criação do Product Backlog, User Stories e algumas telas do front;<br>
-</details>
+
+<details open>
+<summary>####Detalhes do projeto (Telas):</summary>
 
  - Tela do User Stories:
 
@@ -216,6 +219,7 @@ Neste projeto, trabalhei como SCRUM MASTER, elaborando as tarefas do time, parti
  - Frontend tela de filtragem de cliente (Uso para filtrar os clientes para envio de nova campanha):
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/lefoot_filtro.jpg">
+</details>
 
 
 #### Hard Skills Efetivamente Desenvolvidas
