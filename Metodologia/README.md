@@ -47,8 +47,8 @@ App Inventor, Firebase DB, Tiny DB, pois como nunca vi essa ferramenta, tivemos 
 Durante o 2º Semestre do curso, juntamente com meu time, trabalhei no projeto do sistema CONSULTCAR com o Parceiro VISIONA, como Scrum Master.<br> O ConsultCar é uma ferramenta que tem o intuito de facilitar a importação, armazenamento e visualização de dados do Sistema Nacional de Cadastro Ambiental Rural (SICAR)<br>
 [https://github.com/equipe-tetris/ConsultCAR]
 
-<details open>
-<summary>#### Tecnologias Utilizadas</summary>
+
+#### Tecnologias Utilizadas
   - Git <br>
   - GitHub <br>
   - Apache Maven <br>
@@ -56,17 +56,18 @@ Durante o 2º Semestre do curso, juntamente com meu time, trabalhei no projeto d
   - Biblioteca GeoTools <br>
   - Banco de Dados: PostgreSQL || pgAdmin4 ou DBeaver <br>
   - Extensão espacial para o banco de dados: PostGIS <br>
-</details>
 
-<details open>
-<summary>## Contribuições Pessoais</summary>
+
+
+#### Contribuições Pessoais
 Com a função de Scrum Master, durante as sprints, realizei o gerenciamento e divisão das tarefas de acordo com as informações obtidas com o Product Owner do time, realizei reuniões com o M2 para passar informações<br>
 sobre o andamento do projeto e mesmo tendo algum desentendimento, buscar alguma solução juntamente com os SM dos outros times para o problema, realização das Daily Meeting com o time para saber as tarefas de cada um do time<br>
 de desenvolvimento e sua proxima tarefa do projeto, ao final de cada sprint, realizei a avaliação PACER, sendo dado notas de 0 a 3 a cada integrante do time incluindo o PO (Product Owner), também realizei a elaboração do gráfico de Burndown em cada<br>
 sprint sendo está é uma ferramenta de medição visual dessa metodologia ágil que apresenta o trabalho concluído por dia em relação à taxa de conclusão projetada para o projeto. Validei a criação das telas do front do sistema com o time DEV e validamos juntamente com o PO para validar com o cliente.
-</details>
 
-Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema e nosso product baklog:
+
+<details open>
+<summary>Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema e nosso product baklog:</summary>
 
  - Grafico Burndown de uma das sprints do projeto:
 
@@ -95,6 +96,7 @@ Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas t
  - Tela de importação e descompactação do banco de dados do SICAR:
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/consultcar03.jpg">
+</details>
 
 #### Hard Skills Efetivamente Desenvolvidas
 Metodologia Scrum, pois como nunca atuei por exemplo como gerente de um projeto, tive que buscar informações sobre metodologia agil (Scrum e kambam) para poder contribuir na elaboração das tarefas e andamento do projeto.
