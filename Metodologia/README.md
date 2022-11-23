@@ -27,7 +27,7 @@ Na sprint 3 realizei os estudos no Firebase DB e no Tiny DB, devido não tinhamo
 Na sprint 4 realizei testes no app como aluno e motorista para testes de execução no APP, para verificar se o mesmo está realizando o calculo das rotas.
 
 
-<details open>
+<details>
 <summary>Segue imagens de desenvolvimento do projeto:</summary>
 
  - Desenvolvimento da tela de cadastro: aluno e motorista (frontend)
@@ -66,7 +66,7 @@ de desenvolvimento e sua proxima tarefa do projeto, ao final de cada sprint, rea
 sprint sendo está é uma ferramenta de medição visual dessa metodologia ágil que apresenta o trabalho concluído por dia em relação à taxa de conclusão projetada para o projeto. Validei a criação das telas do front do sistema com o time DEV e validamos juntamente com o PO para validar com o cliente.
 
 
-<details open>
+<details>
 <summary>Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema e nosso product baklog:</summary>
 
  - Grafico Burndown de uma das sprints do projeto:
@@ -138,7 +138,7 @@ Neste projeto, auxiliei na elaboração do bando de dados, auxiliei o Scrum Mast
 as avaliações PACER durante as sprints, já que o Scrum Master deste projeto não tinha experiência na função. Em seguida juntamente com um do time DEV auxilei na criação do FrontEnd e na elaboração do MER.
 
 
-<details open>
+<details>
 <summary>Durante o andamento do projeto, auxiliei o time DEV na elaboração de algumas telas do sistema, tela do user stories e nosso product backlog:</summary>
 
  - Telas de cadastro do time DEV e Scrum Master, cadastro do time:
@@ -196,7 +196,7 @@ O objetivo do sistema é segmentar para descobrir novas demandas de produtos por
 
 Neste projeto, trabalhei como SCRUM MASTER, elaborando as tarefas do time, participando das reuniões com o Product Owner e o M2, elaborei a criação do Product Backlog, User Stories e algumas telas do front;<br>
 
-<details open>
+<details>
 <summary>####Detalhes do projeto (Telas):</summary>
 
  - Tela do User Stories:
