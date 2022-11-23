@@ -12,25 +12,23 @@ passageiros a gerenciar suas rotinas relacionadas ao transporte fretado, tanto n
 âmbito escolar, como no profissional.<br>
 [https://gitlab.com/vanzeiros-do-vale/vantec]
 
-<details open>
-<summary>#### Tecnologias Utilizadas</summary>
+#### Tecnologias Utilizadas
  - Git <br>
  - Gitlab <br>
  - FIGMA <br>
  - App Inventor <br>
  - Firebase DB <br>
  - Tiny DB
-</details>
 
-<details open>
-<summary>#### Contribuições Pessoais</summary>
+#### Contribuições Pessoais
 Na sprint 1 realizei o desenvolvimento de umas telas como protótipo no FIGMA, como possuo algum conhecimento em HTML não tive muitas dificuldades em realizar essa tarefa;<br>
 Na sprint 2 realizei o desenvolvimento das telas de cadastro do motorista e aluno no App Inventor, criação de alguns botões para o app;<br>
 Na sprint 3 realizei os estudos no Firebase DB e no Tiny DB, devido não tinhamos conhecimento da ferramenta e no formato de banco NoSQL;<br>
 Na sprint 4 realizei testes no app como aluno e motorista para testes de execução no APP, para verificar se o mesmo está realizando o calculo das rotas.
-</details>
 
-Segue imagens de desenvolvimento do projeto:
+
+<details open>
+<summary>Segue imagens de desenvolvimento do projeto:</summary>
 
  - Desenvolvimento da tela de cadastro: aluno e motorista (frontend)
 
@@ -39,6 +37,7 @@ Segue imagens de desenvolvimento do projeto:
 - Desenvolvimento da tela de rota (frontend)
 
 <img src="https://github.com/jefferson-tavares-araujo/bertoti/blob/master/Metodologia/images/figma02.jpg">
+</details>
 
 #### Hard Skills Efetivamente Desenvolvidas
 App Inventor, Firebase DB, Tiny DB, pois como nunca vi essa ferramenta, tivemos de estudar fora do horário pois as tecnológias não faziam parte do ensinamento no curso
